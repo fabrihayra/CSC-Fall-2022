@@ -39,4 +39,4 @@ int main() {
     cout << "Sorry! No magic date for you... ";
   }
   return 0;
-}
+} 
